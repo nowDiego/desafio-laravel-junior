@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  body {
+    height: 100vh;
+    transition: all 0.3s ease;
+  }
+
+  header{
+    height:20vh;
+  }
+
+  main{
+    height:80vh;
+  } 
+
+
+.f_orange{
+    color: #f19321;
+}
+
+.f_red{
+ color:red
+}
+
+.f_w800{
+  font-weight:800;
+}
+
+.bg_orange{
+    background-color:#f19321;
+    color:white;
+}
+
+.wd-40{
+ width:40%;
+}
